@@ -1,2 +1,2 @@
 # fsc_724
-A database assignment based on Rachael's bakery business.
+A database assignment based on Rachael's baking business.
