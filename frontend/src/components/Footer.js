@@ -43,7 +43,7 @@ export default function Footer() {
                 </div>
             </div>
             <div className="container footer-bottom">
-                <span>© Copyright 2020 Developed by Mastaneh Fey</span>
+                <span>© Copyright 2023 Developed by Tosin5S</span>
                 <div className="social-media">
                     <a href="https://www.twitter.com" target="_blank" rel="noreferrer"><span className="social-media-item"><FaTwitter /></span></a>
                     <a href="https://www.facebook.com" target="_blank" rel="noreferrer"><span className="social-media-item"><FaFacebookF /></span></a>
